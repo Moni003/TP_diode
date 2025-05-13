@@ -1,9 +1,9 @@
-﻿Courant d'alimentation (mA);Tension photodiode interne (V)
+Courant d'alimentation (mA);Tension diode laser (V) 
 0.0;1.825
 0.001;2.015
 0.002;2.087
 0.005;2.119
-0.030;2.127
+0.03;2.127
 0.1;2.138
 0.15;2.146
 0.220;2.156
